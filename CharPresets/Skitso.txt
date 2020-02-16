@@ -5,7 +5,7 @@ player.modav charisma 10
 player.modav intelligence 1
 player.modav agility 10
 player.modav luck 10
-player.modav hp 5000
+player.modav health 5000
 player.setlevel 50
 player.modav carryweight 100000
 player.setav unarmeddamage 99999
@@ -24,6 +24,6 @@ player.addperk 1d245b
 player.addperk 1d2485
 player.addperk 1f418e
 
-player.setscale 5
+player.setscale 2
 setgs fjumpfallheightmin 9000
-player.SpeedMult 150
+player.modav SpeedMult 150
