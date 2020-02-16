@@ -1,0 +1,29 @@
+player.modav strength 11
+player.modav perception 10
+player.modav endurance 10
+player.modav charisma 10
+player.modav intelligence 1
+player.modav agility 10
+player.modav luck 10
+player.modav hp 5000
+player.setlevel 50
+player.modav carryweight 100000
+player.setav unarmeddamage 99999
+
+player.addperk 1d2460
+player.addperk 65e43
+player.addperk 1d2452
+player.addperk 1d2482
+player.addperk 1e0791
+player.addperk 0b9881
+player.addperk 04c921
+player.addperk 1797ea
+player.addperk 065df5
+player.addperk 065e3f
+player.addperk 1d245b
+player.addperk 1d2485
+player.addperk 1f418e
+
+player.setscale 5
+setgs fjumpfallheightmin 9000
+player.SpeedMult 150
