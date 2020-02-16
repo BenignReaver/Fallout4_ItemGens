@@ -24,6 +24,8 @@ player.addperk 1d245b
 player.addperk 1d2485
 player.addperk 1f418e
 
+player.additem 1828cc
+
 player.setscale 2
 setgs fjumpfallheightmin 9000
 player.modav SpeedMult 150
