@@ -5,4 +5,4 @@
 Helpers - Contains helpful scripts
 CharPresets - Sets customised characters based on a playstyle
 
-"Requested" by Liam; grats on the pythons my ## DOOOOOOOOOOOD
+"Requested" by Liam; grats on the pythons my DOOOOOOOOOOOD
