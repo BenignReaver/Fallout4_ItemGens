@@ -1,10 +1,10 @@
-player.modav strength 11
-player.modav perception 10
-player.modav endurance 10
-player.modav charisma 10
-player.modav intelligence 1
-player.modav agility 10
-player.modav luck 10
+player.setav strength 11
+player.setav perception 10
+player.setav endurance 10
+player.setav charisma 10
+player.setav intelligence 1
+player.setav agility 10
+player.setav luck 10
 player.modav health 5000
 player.setlevel 50
 player.modav carryweight 100000
