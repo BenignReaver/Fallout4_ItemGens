@@ -1,0 +1,7 @@
+Low health & strenght
+(possible) diseases
+dumb
+expert chemist
+weak
+
+{{ WIP }}

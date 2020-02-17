@@ -1,0 +1,67 @@
+player.additem 060415b3 1
+player.additem 0604f4f0 1
+player.additem 0604f4ea 1
+player.additem 0604f4ec 1
+player.additem 0009221c 500
+
+player.additem 00092217 1
+player.additem 001c6f2e 1
+player.additem 00188a24 1
+player.additem 00188a25 1
+player.additem 0001f673 500
+
+player.additem 000913ca 1
+player.additem 00187a0d 1
+
+player.additem 0302c8b0 1
+player.additem 03049cd4 1
+player.additem 03049cf3 1
+player.additem 03049cf8 1
+player.additem 03049d07 1
+player.additem 0302c8b1 500
+
+player.additem 0001f17b 1
+player.additem 06042322 1
+player.additem 06042323 1
+
+player.setav unarmeddamage 30
+
+player.setav strength 9
+player.addperk 0001db00
+player.addperk 00065e5c
+player.addperk 001d2488
+player.addperk 001d2480
+
+player.setav perception 10
+player.addperk 0004a0b8
+player.addperk 000d2287
+player.addperk 001d245a
+
+player.setav endurance 10
+player.addperk 00065e5d
+player.addperk 00024b00
+player.addperk 0004a0cf
+player.addperk 001d2485
+
+player.setav charisma 7
+player.addperk 030365f8
+player.addperk 001d2468
+player.addperk 0004d888
+
+player.setav intelligence 5
+player.addperk 0006fa1c
+player.addperk 0016578e
+player.addperk 00065e65
+
+player.setav agility 8
+player.addperk 00065e24
+player.addperk 000b9882
+player.addperk 00065df6
+player.addperk 001d2478
+
+player.setav luck 8
+player.addperk 00215cd4
+player.addperk 001acf9b
+player.addperk 001d2453
+player.addperk 001d2493
+player.addperk 00065e3e
