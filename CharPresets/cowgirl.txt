@@ -24,7 +24,7 @@ player.additem 0001f17b 1
 player.additem 06042322 1
 player.additem 06042323 1
 
-player.setav unarmeddamage 30
+player.setav unarmeddamage 1.3
 
 player.setav strength 9
 player.addperk 0001db00
