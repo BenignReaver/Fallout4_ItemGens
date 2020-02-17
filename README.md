@@ -7,19 +7,19 @@ CharPresets - Sets customised characters based on a playstyle
 
 # Cowboy/CowGirl Loadouts
 ## Weapons
-Western Revolver with Advanced Receiver, Long Barrel, Sharpshooter Grip
-Double-Barreled Shotgun with Hair Trigger Receiver, Sawn-Off Barrel, Full Stock
-Combat Knife with Stealth Blade
-Lever-Action Rifle (Far Harbour) with Advanced Receiver, Long Barrel, Marksman's Stock, Medium Scope
+1. Western Revolver with Advanced Receiver, Long Barrel, Sharpshooter Grip
+2. Double-Barreled Shotgun with Hair Trigger Receiver, Sawn-Off Barrel, Full Stock
+3. Combat Knife with Stealth Blade
+4. Lever-Action Rifle (Far Harbour) with Advanced Receiver, Long Barrel, Marksman's Stock, Medium Scope
 
 ## Clothing/Armour
 Preston's Colonial Duster
 Brown & Black Cowboy Hats (Nuka-World)
 
-# Ammo
+## Ammo
 500 rounds for each of the above weapons.
 
-# Perks
+## Perks
 1. Iron Fist 3
 2. Strong Back 4
 3. Steady Aim 2

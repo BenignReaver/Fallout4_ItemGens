@@ -14,7 +14,7 @@ player.additem 000913ca 1
 player.additem 00187a0d 1
 
 player.additem 0302c8b0 1
-player.additem 03049cd4 1
+player.additem 03049d03 1
 player.additem 03049cf3 1
 player.additem 03049cf8 1
 player.additem 03049d07 1
